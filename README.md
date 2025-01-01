@@ -1,0 +1,1 @@
+e HR Dashboard of Attrition is an analytical tool designed to provide insights into employee attrition trends within an organization. This dashboard leverages data visualization techniques to help HR professionals identify patterns, analyze key metrics, and make data-driven decisions to reduce employee turnover.
